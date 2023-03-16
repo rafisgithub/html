@@ -1,0 +1,13 @@
+It’s easy to get weighed down and confused by all the jargon in IT and software development.
+
+But in amongst the DSLs, the HTTPs, the LANs and the ISPs, there is one particular acronym that you don’t want to overlook.
+
+API – or application programming interface – is a connection between computers or computer programmes and its superpower lies in its ability to allow two different applications to talk to each other.
+
+APIs are essentially a bridge between disconnected processes and they can prove invaluable in transforming workflows and processes for businesses.
+
+Take, for example, an HR department whose onboarding system operates on a completely different application to its recruitment system. A process that was once very laborious and time-consuming, involving manually inputting new recruits’ details to create onboarding cases populated with information, can be completely transformed with the use of an API that allows each application to seamlessly communicate and automate.
+
+This is where the beauty of APIs really lies; delivering operational efficiencies that can reduce timescales, improve customer, staff and client experiences and save businesses money.
+
+As well as this, APIs bring with them a myriad of other benefits including providing an additional level of security, being developer friendly, and being able to scale up with applications as businesses grow.
